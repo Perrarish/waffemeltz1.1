@@ -1,53 +1,53 @@
 // Menu Data with Images
 const menuData = {
     'wafflelicious': [
-        { name: 'Belgian chocolate Milk', price: 99, image: '/belgiumchocolate.png' },
-        { name: 'Belgian chocolate White', price: 99, image: '/belgianchocolatewhite.png' },
-        { name: 'Belgian Chocolate Dark', price: 109, image: '/belgianchocolatedark.png' },
-        { name: 'Red velvet - white chocolate', price: 119, image: '/redwelvetwhitechocolate.png' },
-        { name: 'Twilight Fantasy', price: 129, image: '/twlightfantancy.png' },
-        { name: 'Creamy Cookie Crush', price: 129, image: '/creamcookie.png' },
-        { name: 'Belgian Chocolate Stick Waffles', price: 129, image: '/stick waffle.png' },
-        { name: 'Butterscotch Crunch', price: 129, image: '/butterscoch.png' },
-        { name: 'Strawberry Cloud', price: 129, image: '/strawberrycloud.png' },
-        { name: 'Cotton candy', price: 139, image: '/cottoncandy.png' },
+        { name: 'Belgian chocolate Milk', price: 99, image: 'belgiumchocolate.png' },
+        { name: 'Belgian chocolate White', price: 99, image: 'belgianchocolatewhite.png' },
+        { name: 'Belgian Chocolate Dark', price: 109, image: 'belgianchocolatedark.png' },
+        { name: 'Red velvet - white chocolate', price: 119, image: 'redwelvetwhitechocolate.png' },
+        { name: 'Twilight Fantasy', price: 129, image: 'twlightfantancy.png' },
+        { name: 'Creamy Cookie Crush', price: 129, image: 'creamcookie.png' },
+        { name: 'Belgian Chocolate Stick Waffles', price: 129, image: 'stick waffle.png' },
+        { name: 'Butterscotch Crunch', price: 129, image: 'butterscoch.png' },
+        { name: 'Strawberry Cloud', price: 129, image: 'strawberrycloud.png' },
+        { name: 'Cotton candy', price: 139, image: 'cottoncandy.png' },
     ],
     'mini-pancake': [
-        { name: 'Maple Mini Bites', price: 99, image: '/mappleminipancake.png' },
-        { name: 'Double chocolate Mini Pancake', price: 119, image: '/doublechocolateminipancake.png' },
-        { name: 'Chocolate Chip Mini Pancake', price: 119, image: '/chocolatechipminipancake.png' },
-        { name: 'Mini Pancake with Nutella', price: 129, image: '/minipancakewithnutell.png' },
-        { name: 'Red velvet - white chocolate', price: 129, image: '/redvelvetminipancake.png' },
-        { name: 'Triple Chocolate Mini Pancake', price: 139, image: '/triplechocolateminipancake.png' },
-        { name: 'Death by Chocolate Mini Pancake', price: 139, image: '/deathbychocolatepancake.png' }
+        { name: 'Maple Mini Bites', price: 99, image: 'mappleminipancake.png' },
+        { name: 'Double chocolate Mini Pancake', price: 119, image: 'doublechocolateminipancake.png' },
+        { name: 'Chocolate Chip Mini Pancake', price: 119, image: 'chocolatechipminipancake.png' },
+        { name: 'Mini Pancake with Nutella', price: 129, image: 'minipancakewithnutell.png' },
+        { name: 'Red velvet - white chocolate', price: 129, image: 'redvelvetminipancake.png' },
+        { name: 'Triple Chocolate Mini Pancake', price: 139, image: 'triplechocolateminipancake.png' },
+        { name: 'Death by Chocolate Mini Pancake', price: 139, image: 'deathbychocolatepancake.png' }
     ],
     'waffle-sundae': [
-        { name: 'Classic Vanilla Sundae', price: 129, image: '/classic_vennila_sundae.png' },
-        { name: 'Red Velvet Waffle Sundae', price: 139, image: '/redvelvetwaffle.png' },
-        { name: 'Vanilla Swirl Brownie', price: 139, image: '/whirlbrownie.png' },
-        { name: 'Double Trouble (Brownie With Choc Ice)', price: 139, image: '/doublebrownie.png' },
-        { name: 'Dark Temptation', price: 149, image: '/chocolefudge.png' }
+        { name: 'Classic Vanilla Sundae', price: 129, image: 'classic_vennila_sundae.png' },
+        { name: 'Red Velvet Waffle Sundae', price: 139, image: 'redvelvetwaffle.png' },
+        { name: 'Vanilla Swirl Brownie', price: 139, image: 'whirlbrownie.png' },
+        { name: 'Double Trouble (Brownie With Choc Ice)', price: 139, image: 'doublebrownie.png' },
+        { name: 'Dark Temptation', price: 149, image: 'chocolefudge.png' }
     ],
     'beverages': [
-        { name: 'Virgin Mojito', price: 69, image: '/virginmojito.png' },
-        { name: 'Blue Curacao Mojito', price: 79, image: '/blue_coraco_mojito.png' },
-        { name: 'Passion Fruit Mojito', price: 89, image: '/passionfruitmojito.png' },
-        { name: 'Vanilla Milk Shake', price: 99, image: '/vannilamilkshake.png' },
-        { name: 'Hot Chocolate', price: 110, image: '/hotchocolate.png' },
-        { name: 'Chocolate Milk Shake', price: 119, image: '/chocolate_milkshake.png' },
-        { name: 'Brownie Milk Shake', price: 129, image: '/browniemilkshake.png' },
-        { name: 'Cold Coffee', price: 139, image: '/coldcoffee.png' }
+        { name: 'Virgin Mojito', price: 69, image: 'virginmojito.png' },
+        { name: 'Blue Curacao Mojito', price: 79, image: 'blue_coraco_mojito.png' },
+        { name: 'Passion Fruit Mojito', price: 89, image: 'passionfruitmojito.png' },
+        { name: 'Vanilla Milk Shake', price: 99, image: 'vannilamilkshake.png' },
+        { name: 'Hot Chocolate', price: 110, image: 'hotchocolate.png' },
+        { name: 'Chocolate Milk Shake', price: 119, image: 'chocolate_milkshake.png' },
+        { name: 'Brownie Milk Shake', price: 129, image: 'browniemilkshake.png' },
+        { name: 'Cold Coffee', price: 139, image: 'coldcoffee.png' }
     ],
     'hot-fresh': [
         { name: 'Brownie', price: 59, image: '/brownie.png' },
-        { name: 'Brownie with dark chocolate', price: 69, image: '/browniewithdarkchocolate.png' },
-        { name: 'Garlic Bread', price: 89, image: '/garlicbread.png' },
-        { name: 'Korean Cream Cheese Garlic Bun', price: 99, image: '/creamcheesgarlicbun.png' }
+        { name: 'Brownie with dark chocolate', price: 69, image: 'browniewithdarkchocolate.png' },
+        { name: 'Garlic Bread', price: 89, image: 'garlicbread.png' },
+        { name: 'Korean Cream Cheese Garlic Bun', price: 99, image: 'creamcheesgarlicbun.png' }
     ],
     'special-cake': [
-        { name: 'Death by Chocolate', price: 529, image: '/deathbychocolate.png' },
-        { name: 'Red Velvet Dark Choco Chip Waffle Cake', price: 529, image: '/redvelwetdarkchocolate.png' },
-        { name: 'Strawberry with Belgian Chocolate Cake', price: 529, image: '/straberrybelgian.png' }
+        { name: 'Death by Chocolate', price: 529, image: 'deathbychocolate.png' },
+        { name: 'Red Velvet Dark Choco Chip Waffle Cake', price: 529, image: 'redvelwetdarkchocolate.png' },
+        { name: 'Strawberry with Belgian Chocolate Cake', price: 529, image: 'straberrybelgian.png' }
     ]
 };
 
@@ -247,4 +247,5 @@ window.addEventListener('scroll', () => {
         
         lastScroll = currentScroll;
     }
+
 });
